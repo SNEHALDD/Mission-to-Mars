@@ -1,6 +1,7 @@
 # Mission-to-Mars
 
-## Analysis: The purpose of this project is to display images of Mars’s hemispheres on your own site and are the website user friendly. The webpage needs all 4 images of Hemispheres. In order to do that, we need BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images.
+## Analysis: 
+The purpose of this project is to display images of Mars’s hemispheres on your own site and are the website user friendly. The webpage needs all 4 images of Hemispheres. In order to do that, we need BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemispheres and the titles of those images, store the scraped data on a Mongo database, use a web application to display the data, and alter the design of the web app to accommodate these images.
 
 ## Results: Provide a bulleted list with three major points from the analysis deliverables. Use images as support where needed.
 
